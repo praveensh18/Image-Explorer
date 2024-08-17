@@ -1,4 +1,5 @@
-# React advanced concepts
+# Image Explorer
+Image Explorer is a dynamic web application designed for seamless browsing and downloading of an unlimited number of images. The platform offers an infinite scroll experience, allowing users to continuously explore new images without interruptions. As users scroll through the page, Image Explorer automatically fetches fresh content from an API, ensuring that there’s always something new to discover.\
 
 ## Getting started
 
